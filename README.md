@@ -15,4 +15,4 @@
 * **Learning:** Low-level programming & Web Dev
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Akkiy-ckiliy)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/ckilliy_08)
