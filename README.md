@@ -1,7 +1,7 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 **Student:** 情報系の大学1年生
+* 🎓 **Student:** 情報系の大学2年生
 * 🏢 **Intern:** Web開発インターン中 (Next.js / Nest.js)
 * 🌱 **Learning:** コンピュータサイエンスの基礎、低レイヤー (C言語)
 * ❤️ **Interests:** Web技術、XR、音楽
