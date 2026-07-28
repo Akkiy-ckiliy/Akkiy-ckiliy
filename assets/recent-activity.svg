@@ -3,18 +3,17 @@
   <rect width="900" height="250" rx="16" fill="#0d1117"/>
   <rect x="24" y="24" width="852" height="202" rx="14" fill="#151b23" stroke="#30363d"/>
   <text x="54" y="66" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Recent Public Activity</text>
-  <text x="54" y="92" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Sampled from visible public repositories. Last generated: 2026-07-28 JST.</text>
+  <text x="54" y="92" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Public commits by month. Last generated: Jul 29, 2026 JST.</text>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle">
     <line x1="54" y1="180" x2="846" y2="180" stroke="#30363d"/><line x1="54" y1="120" x2="846" y2="120" stroke="#222a33" stroke-dasharray="4 8"/>
-    <g><rect x="74" y="170" width="46" height="10" rx="6" fill="url(#b)"/><text x="97" y="202" fill="#8b949e">Nov</text><text x="97" y="160" fill="#f2cc8f" font-weight="700">2</text></g>
-    <g><rect x="162" y="70" width="46" height="110" rx="6" fill="url(#b)"/><text x="185" y="202" fill="#8b949e">Dec</text><text x="185" y="60" fill="#f2cc8f" font-weight="700">23</text></g>
-    <g><rect x="250" y="84" width="46" height="96" rx="6" fill="url(#b)"/><text x="273" y="202" fill="#8b949e">Jan</text><text x="273" y="74" fill="#f2cc8f" font-weight="700">20</text></g>
-    <g><rect x="338" y="132" width="46" height="48" rx="6" fill="url(#b)"/><text x="361" y="202" fill="#8b949e">Feb</text><text x="361" y="122" fill="#f2cc8f" font-weight="700">10</text></g>
+    <g><rect x="74" y="171" width="46" height="9" rx="6" fill="url(#b)"/><text x="97" y="202" fill="#8b949e">Nov</text><text x="97" y="161" fill="#f2cc8f" font-weight="700">2</text></g>
+    <g><rect x="162" y="79" width="46" height="101" rx="6" fill="url(#b)"/><text x="185" y="202" fill="#8b949e">Dec</text><text x="185" y="69" fill="#f2cc8f" font-weight="700">23</text></g>
+    <g><rect x="250" y="105" width="46" height="75" rx="6" fill="url(#b)"/><text x="273" y="202" fill="#8b949e">Jan</text><text x="273" y="95" fill="#f2cc8f" font-weight="700">17</text></g>
+    <g><rect x="338" y="149" width="46" height="31" rx="6" fill="url(#b)"/><text x="361" y="202" fill="#8b949e">Feb</text><text x="361" y="139" fill="#f2cc8f" font-weight="700">7</text></g>
     <g><rect x="426" y="180" width="46" height="0" rx="6" fill="url(#b)"/><text x="449" y="202" fill="#8b949e">Mar</text><text x="449" y="170" fill="#f2cc8f" font-weight="700">0</text></g>
-    <g><rect x="514" y="170" width="46" height="10" rx="6" fill="url(#b)"/><text x="537" y="202" fill="#8b949e">Apr</text><text x="537" y="160" fill="#f2cc8f" font-weight="700">2</text></g>
+    <g><rect x="514" y="171" width="46" height="9" rx="6" fill="url(#b)"/><text x="537" y="202" fill="#8b949e">Apr</text><text x="537" y="161" fill="#f2cc8f" font-weight="700">2</text></g>
     <g><rect x="602" y="180" width="46" height="0" rx="6" fill="url(#b)"/><text x="625" y="202" fill="#8b949e">May</text><text x="625" y="170" fill="#f2cc8f" font-weight="700">0</text></g>
-    <g><rect x="690" y="166" width="46" height="14" rx="6" fill="url(#b)"/><text x="713" y="202" fill="#8b949e">Jun</text><text x="713" y="156" fill="#f2cc8f" font-weight="700">3</text></g>
-    <g><rect x="778" y="89" width="46" height="91" rx="6" fill="url(#b)"/><text x="801" y="202" fill="#8b949e">Jul</text><text x="801" y="79" fill="#f2cc8f" font-weight="700">19</text></g>
+    <g><rect x="690" y="167" width="46" height="13" rx="6" fill="url(#b)"/><text x="713" y="202" fill="#8b949e">Jun</text><text x="713" y="157" fill="#f2cc8f" font-weight="700">3</text></g>
+    <g><rect x="778" y="70" width="46" height="110" rx="6" fill="url(#b)"/><text x="801" y="202" fill="#8b949e">Jul</text><text x="801" y="60" fill="#f2cc8f" font-weight="700">25</text></g>
   </g>
-  <text x="54" y="220" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13">Most recent public work: weekly-projects and c-playground</text>
 </svg>
