@@ -26,18 +26,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akkiy-ckiliy&theme=gruvbox" alt="GitHub profile details" />
+  <img src="./assets/github-overview.svg" alt="GitHub overview" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akkiy-ckiliy&theme=gruvbox" alt="Top languages by repository" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akkiy-ckiliy&theme=gruvbox" alt="Top languages by commit" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akkiy-ckiliy&theme=gruvbox" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akkiy-ckiliy&theme=gruvbox&utcOffset=9" alt="Productive time" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akkiy-ckiliy&theme=gruvbox&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="./assets/recent-activity.svg" alt="Recent public GitHub activity" />
 </p>
 
 ### 📫 Connect with me
