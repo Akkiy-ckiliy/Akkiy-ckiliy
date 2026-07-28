@@ -26,11 +26,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akkiy-ckiliy&amp;show_icons=true&amp;theme=gruvbox_light&amp;hide_border=true&amp;rank_icon=github" alt="Akkiy-ckiliy GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkiy-ckiliy&amp;layout=compact&amp;theme=gruvbox_light&amp;hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akkiy-ckiliy&theme=gruvbox" alt="GitHub profile details" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akkiy-ckiliy&amp;theme=gruvbox-light&amp;hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akkiy-ckiliy&theme=gruvbox" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akkiy-ckiliy&theme=gruvbox" alt="Top languages by commit" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akkiy-ckiliy&theme=gruvbox" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akkiy-ckiliy&theme=gruvbox&utcOffset=9" alt="Productive time" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akkiy-ckiliy&theme=gruvbox&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ### 📫 Connect with me
