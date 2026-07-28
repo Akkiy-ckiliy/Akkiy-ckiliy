@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Akkiy-ckiliy GitHub overview">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop stop-color="#2f80ed"/><stop offset="1" stop-color="#f2994a"/></linearGradient>
+  </defs>
+  <rect width="900" height="270" rx="16" fill="#0d1117"/>
+  <rect x="24" y="24" width="852" height="222" rx="14" fill="#151b23" stroke="#30363d"/>
+  <text x="54" y="70" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">GitHub Overview</text>
+  <text x="54" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Static SVG cards stored in this repo. No public stats API rate limits.</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="54" y="126" width="180" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="74" y="154" fill="#8b949e" font-size="13">Visible public repos</text><text x="74" y="187" fill="#f2cc8f" font-size="34" font-weight="700">12</text>
+    <rect x="254" y="126" width="180" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="274" y="154" fill="#8b949e" font-size="13">Active in 2026</text><text x="274" y="187" fill="#a7c957" font-size="34" font-weight="700">6</text>
+    <rect x="454" y="126" width="210" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="474" y="154" fill="#8b949e" font-size="13">Latest public work</text><text x="474" y="186" fill="#7dd3fc" font-size="24" font-weight="700">Jul 28, 2026</text>
+    <rect x="684" y="126" width="142" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
+    <text x="704" y="154" fill="#8b949e" font-size="13">Focus</text><text x="704" y="186" fill="#f2994a" font-size="23" font-weight="700">Web + C</text>
+  </g>
+  <g transform="translate(54 222)" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    <rect width="792" height="10" rx="5" fill="#30363d"/><rect width="356" height="10" rx="5" fill="#3178c6"/><rect x="356" width="238" height="10" fill="#a8b9cc"/><rect x="594" width="119" height="10" fill="#f7df1e"/><rect x="713" width="79" height="10" rx="5" fill="#dea584"/>
+    <text x="0" y="30" fill="#c9d1d9">TypeScript / React / Next.js</text><text x="250" y="30" fill="#c9d1d9">C basics</text><text x="385" y="30" fill="#c9d1d9">JavaScript</text><text x="535" y="30" fill="#c9d1d9">Rust</text>
+  </g>
+</svg>
