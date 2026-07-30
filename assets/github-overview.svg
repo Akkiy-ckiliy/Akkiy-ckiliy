@@ -3,18 +3,18 @@
   <rect width="900" height="270" rx="16" fill="#0d1117"/>
   <rect x="24" y="24" width="852" height="222" rx="14" fill="#151b23" stroke="#30363d"/>
   <text x="54" y="70" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">GitHub Overview</text>
-  <text x="54" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Auto-generated static SVG. Last generated: Jul 30, 2026 JST.</text>
+  <text x="54" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Auto-generated static SVG. Last generated: Jul 31, 2026 JST.</text>
   <g font-family="Segoe UI, Arial, sans-serif">
     <rect x="54" y="126" width="180" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
     <text x="74" y="154" fill="#8b949e" font-size="13">Public repos</text><text x="74" y="187" fill="#f2cc8f" font-size="34" font-weight="700">12</text>
     <rect x="254" y="126" width="180" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
     <text x="274" y="154" fill="#8b949e" font-size="13">Active this year</text><text x="274" y="187" fill="#a7c957" font-size="34" font-weight="700">6</text>
     <rect x="454" y="126" width="210" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
-    <text x="474" y="154" fill="#8b949e" font-size="13">Latest public work</text><text x="474" y="186" fill="#7dd3fc" font-size="23" font-weight="700">Jul 28, 2026</text>
+    <text x="474" y="154" fill="#8b949e" font-size="13">Latest public work</text><text x="474" y="186" fill="#7dd3fc" font-size="23" font-weight="700">Jul 30, 2026</text>
     <rect x="684" y="126" width="142" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
     <text x="704" y="154" fill="#8b949e" font-size="13">Focus</text><text x="704" y="186" fill="#f2994a" font-size="19" font-weight="700">TypeScript +</text>
   </g>
   <g transform="translate(54 222)" font-family="Segoe UI, Arial, sans-serif" font-size="13">
-    <rect width="792" height="10" rx="5" fill="#30363d"/><g clip-path="url(#barClip)"><rect x="0" width="652" height="10" fill="#3178c6"/><rect x="652" width="71" height="10" fill="#a8b9cc"/><rect x="723" width="39" height="10" fill="#f7df1e"/><rect x="762" width="30" height="10" fill="#dea584"/></g><circle cx="18" cy="30" r="6" fill="#3178c6"/><text x="32" y="35" fill="#e6edf3">TypeScript</text><circle cx="208" cy="30" r="6" fill="#a8b9cc"/><text x="222" y="35" fill="#e6edf3">JavaScript</text><circle cx="398" cy="30" r="6" fill="#f7df1e"/><text x="412" y="35" fill="#e6edf3">CSS</text><circle cx="588" cy="30" r="6" fill="#dea584"/><text x="602" y="35" fill="#e6edf3">C</text>
+    <rect width="792" height="10" rx="5" fill="#30363d"/><g clip-path="url(#barClip)"><rect x="0" width="653" height="10" fill="#3178c6"/><rect x="653" width="70" height="10" fill="#a8b9cc"/><rect x="723" width="38" height="10" fill="#f7df1e"/><rect x="761" width="31" height="10" fill="#dea584"/></g><circle cx="18" cy="30" r="6" fill="#3178c6"/><text x="32" y="35" fill="#e6edf3">TypeScript</text><circle cx="208" cy="30" r="6" fill="#a8b9cc"/><text x="222" y="35" fill="#e6edf3">JavaScript</text><circle cx="398" cy="30" r="6" fill="#f7df1e"/><text x="412" y="35" fill="#e6edf3">CSS</text><circle cx="588" cy="30" r="6" fill="#dea584"/><text x="602" y="35" fill="#e6edf3">C</text>
   </g>
 </svg>
