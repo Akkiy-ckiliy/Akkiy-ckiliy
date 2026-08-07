@@ -3,7 +3,7 @@
   <rect width="900" height="250" rx="16" fill="#0d1117"/>
   <rect x="24" y="24" width="852" height="202" rx="14" fill="#151b23" stroke="#30363d"/>
   <text x="54" y="66" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Recent Public Activity</text>
-  <text x="54" y="92" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Public commits by month. Last generated: Aug 7, 2026 JST.</text>
+  <text x="54" y="92" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Public commits by month. Last generated: Aug 8, 2026 JST.</text>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle">
     <line x1="54" y1="180" x2="846" y2="180" stroke="#30363d"/><line x1="54" y1="120" x2="846" y2="120" stroke="#222a33" stroke-dasharray="4 8"/>
     <g><rect x="74" y="96" width="46" height="84" rx="6" fill="url(#b)"/><text x="97" y="202" fill="#8b949e">Dec</text><text x="97" y="86" fill="#f2cc8f" font-weight="700">23</text></g>
