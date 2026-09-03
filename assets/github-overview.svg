@@ -3,7 +3,7 @@
   <rect width="900" height="270" rx="16" fill="#0d1117"/>
   <rect x="24" y="24" width="852" height="222" rx="14" fill="#151b23" stroke="#30363d"/>
   <text x="54" y="70" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">GitHub Overview</text>
-  <text x="54" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Auto-generated static SVG. Last generated: Sep 3, 2026 JST.</text>
+  <text x="54" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="14">Auto-generated static SVG. Last generated: Sep 4, 2026 JST.</text>
   <g font-family="Segoe UI, Arial, sans-serif">
     <rect x="54" y="126" width="180" height="74" rx="12" fill="#0d1117" stroke="#30363d"/>
     <text x="74" y="154" fill="#8b949e" font-size="13">Public repos</text><text x="74" y="187" fill="#f2cc8f" font-size="34" font-weight="700">14</text>
